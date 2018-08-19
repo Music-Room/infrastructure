@@ -22,7 +22,8 @@ ansible:
 	@echo Ansible UP
 
 build:
-	@eval $(aws ecr --profile alex get-login --no-include-email --region us-east-1 | sed 's|https://||')
+	@login=$(aws ecr --profile alex get-login --no-include-email --region us-east-1 | sed 's|https://||')
+	@$(shell login)
 	docker-compose up
 	#docker-compose logs -f
 
