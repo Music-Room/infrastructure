@@ -27,7 +27,7 @@ ansible:
 build:
 	@login=$(aws ecr --profile alex get-login --no-include-email --region us-east-1 | sed 's|https://||')
 	@$(shell login)
-	docker-compose up
+	docker-compose up -d
 	#docker-compose logs -f
 
 clean:
