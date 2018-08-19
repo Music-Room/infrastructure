@@ -5,6 +5,8 @@ services:
  api-server:
     image: 848984447616.dkr.ecr.us-east-1.amazonaws.com/music-room:latest
     container_name: music-room
+    expose:
+      - 9000
     ports:
       - 9000:9000
     env_file: .env
