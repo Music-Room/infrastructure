@@ -6,7 +6,7 @@ services:
     image: 848984447616.dkr.ecr.us-east-1.amazonaws.com/music-room:latest
     container_name: music-room
     ports:
-      - 9000:9000
+      - 80:9000
     env_file: .env
     environment:
      - MIGRATE=${MIGRATE}
