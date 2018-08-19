@@ -25,7 +25,7 @@ services:
 
  postgres:
     image: postgres
-    container_name: postgres
+    container_name: postgres_mr
     volumes:
       - /var/lib/postgresql/data/
     env_file: .env
@@ -37,7 +37,7 @@ services:
 
  redis:
     image: redis:3.0-alpine
-    container_name: redis
+    container_name: redis_mr
     restart: always
     command: redis-server --appendonly yes
     environment:
