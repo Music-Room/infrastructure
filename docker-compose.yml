@@ -1,0 +1,46 @@
+version: "2"
+
+services:
+
+ api-server:
+    image: 848984447616.dkr.ecr.us-east-1.amazonaws.com/music-room:latest
+    container_name: music-room
+    ports:
+      - 8000:8000
+    env_file: .env
+    environment:
+     - MIGRATE=${MIGRATE}
+     - PGHOST=${PG_HOST}
+     - PGPORT=${PG_PORT}
+     - PGNAME=${PG_NAME}
+     - PGUSER=${PG_USER}
+     - PGPASS=${PG_PASS}
+     - RDSHOST={RDS_HOST}
+     - RDSPORT=${RDS_PORT}
+     - RDSNAME=${RDS_NAME}
+    depends_on:
+      - postgres
+    links:
+      - postgres
+
+ postgres:
+    image: postgres
+    container_name: postgres
+    volumes:
+      - /var/lib/postgresql/data/
+    env_file: .env
+    environment:
+      - POSTGRES_USER=${PG_USER}
+      - POSTGRES_PASSWORD=${PG_PASS}
+      - POSTGRES_DB=${PG_NAME}
+    restart: always
+
+ redis:
+    image: redis:3.0-alpine
+    container_name: redis
+    restart: always
+    command: redis-server --appendonly yes
+    environment:
+        - ALLOW_EMPTY_PASSWORD=yes
+
+
