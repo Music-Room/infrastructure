@@ -42,9 +42,9 @@ pinterest-api-server:
 	-dt \
 	-p 8088:8088 \
 	--name=pinterest-api-server \
-	-v $(pwd)/app_log:/app/logs_vol
-	--net my_app
-	-e PROD='1'
+	-v $(pwd)/app_log:/app/logs_vol \
+	--net my_app \
+	-e PROD='1' \
 	$(AWSECR)/pinterest-api-server
 
 clean:
