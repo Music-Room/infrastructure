@@ -1,5 +1,5 @@
 
-AWSECR=848984447616.dkr.ecr.us-east-1.amazonaws.com/
+AWSECR=848984447616.dkr.ecr.us-east-1.amazonaws.com
 
 DOCKER=docker
 DOCKERBUILD=$(DOCKER) build
