@@ -42,10 +42,10 @@ pinterest-api-server:
 	-dt \
 	-p 8088:8088 \
 	--name=pinterest-api-server \
-	-v $(pwd)/app_logs:/app/logs_vol
+	-v $(pwd)/app_log:/app/logs_vol
 	--net my_app
 	-e PROD='1'
-	$I(AWSECR)/pinterest-api-server
+	$(AWSECR)/pinterest-api-server
 
 clean:
 	docker-compose stop
