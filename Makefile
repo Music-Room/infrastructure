@@ -1,6 +1,11 @@
 
+AWSECR=848984447616.dkr.ecr.us-east-1.amazonaws.com/
 
-all: build
+DOCKER=docker
+DOCKERBUILD=$(DOCKER) build
+DOCKERRUN=$(DOCKER) run
+
+#all: build
 
 install:
 	sudo curl -L https://github.com/docker/compose/releases/download/1.18.0/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
@@ -29,6 +34,18 @@ build:
 	@$(shell login)
 	docker-compose up -d
 	#docker-compose logs -f
+
+pinterest-api-server:
+	@echo "Docker run service..."
+	$(DOCKERRUN) \
+	--rm \
+	-dt \
+	-p 8088:8088 \
+	--name=pinterest-api-server \
+	-v $(pwd)/app_logs:/app/logs_vol
+	--net my_app
+	-e PROD='1'
+	$I(AWSECR)/pinterest-api-server
 
 clean:
 	docker-compose stop
