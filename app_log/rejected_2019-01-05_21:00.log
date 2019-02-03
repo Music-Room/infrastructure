@@ -1,0 +1,3 @@
+2019-01-05T21:00:02.175Z	INFO	shutterstock-check-rejected/main.go:20	START -> 2019.01.05 21:00:02
+2019-01-05T21:00:03.315Z	INFO	shutterstock-check-rejected/service.go:44	rejectedIDs list is empty
+2019-01-05T21:00:03.315Z	INFO	shutterstock-check-rejected/main.go:26	END WITH SUCCESS

@@ -1,0 +1,6 @@
+{"level":"info","ts":1547200611.9408002,"caller":"pinterest-api-server/new_logger.go:31","msg":"Logger successful initialization"}
+{"level":"info","ts":1547200611.943021,"caller":"pinterest-api-server/config.go:32","msg":"Load config"}
+{"level":"info","ts":1547200611.943046,"caller":"pinterest-api-server/psql.go:27","msg":"host=postgres user=alex password=12345 dbname=pinterest sslmode=disable"}
+{"level":"info","ts":1547200611.9430683,"caller":"pinterest-api-server/psql.go:33","msg":"Success connect to PSQL...host=postgres user=alex password=12345 dbname=pinterest sslmode=disable"}
+{"level":"info","ts":1547200611.9457095,"caller":"pinterest-api-server/new_server.go:43","msg":"New server create"}
+{"level":"info","ts":1547200611.946362,"caller":"pinterest-api-server/middleware.go:19","msg":"Create routes"}

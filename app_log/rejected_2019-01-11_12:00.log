@@ -1,0 +1,3 @@
+2019-01-11T12:00:03.334Z	INFO	shutterstock-check-rejected/main.go:20	START -> 2019.01.11 12:00:03
+2019-01-11T12:00:04.150Z	INFO	shutterstock-check-rejected/service.go:35	RejectedCurr list from Redis is empty
+2019-01-11T12:00:04.150Z	INFO	shutterstock-check-rejected/main.go:26	END WITH SUCCESS

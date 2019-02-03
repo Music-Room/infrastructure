@@ -1,0 +1,320 @@
+2019-01-12T22:10:01.910Z	INFO	infrastructure/logger.go:56	START!!!
+2019-01-12T22:10:01.916Z	INFO	infrastructure/logger.go:56	Success connect to Redis...redis:6379
+2019-01-12T22:10:01.917Z	INFO	infrastructure/logger.go:56	Success connect to Redis...redis:6379
+2019-01-12T22:10:01.917Z	INFO	infrastructure/logger.go:56	Success connect to Redis...redis:6379
+2019-01-12T22:10:01.917Z	INFO	infrastructure/logger.go:56	Success connect to Redis...redis:6379
+2019-01-12T22:10:01.918Z	INFO	infrastructure/logger.go:56	Success connect to Redis...redis:6379
+2019-01-12T22:10:01.918Z	INFO	infrastructure/logger.go:56	Success connect to PSQL...host=postgres port=5432 user=alex password=12345 dbname=pinterest sslmode=disable
+2019-01-12T22:10:01.919Z	INFO	infrastructure/logger.go:56	empty redis DB
+2019-01-12T22:10:01.919Z	INFO	infrastructure/logger.go:56	Success connect to Redis...redis:6379
+2019-01-12T22:10:01.919Z	INFO	infrastructure/logger.go:56	Success connect to PSQL...host=postgres port=5432 user=alex password=12345 dbname=pinterest sslmode=disable
+2019-01-12T22:10:01.919Z	INFO	infrastructure/logger.go:56	empty redis DB
+2019-01-12T22:10:01.919Z	INFO	infrastructure/logger.go:56	Success connect to Redis...redis:6379
+2019-01-12T22:10:01.919Z	INFO	infrastructure/logger.go:56	Success connect to PSQL...host=postgres port=5432 user=alex password=12345 dbname=pinterest sslmode=disable
+2019-01-12T22:10:01.923Z	INFO	infrastructure/logger.go:56	empty redis DB
+2019-01-12T22:10:01.923Z	INFO	infrastructure/logger.go:56	Success connect to Redis...redis:6379
+2019-01-12T22:10:01.923Z	INFO	infrastructure/logger.go:56	Success connect to PSQL...host=postgres port=5432 user=alex password=12345 dbname=pinterest sslmode=disable
+2019-01-12T22:10:01.935Z	INFO	infrastructure/logger.go:56	Get dt_95251480 key from Redis
+2019-01-12T22:10:02.759Z	INFO	infrastructure/logger.go:56	Pined image -> dt_95251480
+2019-01-12T22:10:02.761Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_95251480 https://www.dreamstime.com/stock-photo-dragonfly-blue-color-sky-sits-field-forest-leaves-fern-summer-there-lot-them-image95251480#res16481627
+2019-01-12T22:10:02.762Z	INFO	infrastructure/logger.go:56	Get dt_95253644 key from Redis
+2019-01-12T22:10:03.219Z	INFO	infrastructure/logger.go:56	Pined image -> dt_95253644
+2019-01-12T22:10:03.220Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_95253644 https://www.dreamstime.com/stock-photo-ant-wings-grass-sits-very-ugly-insect-crawling-then-down-up-very-beautiful-fascinating-image95253644#res16481627
+2019-01-12T22:10:03.221Z	INFO	infrastructure/logger.go:56	Get dt_93621072 key from Redis
+2019-01-12T22:10:03.902Z	INFO	infrastructure/logger.go:56	Pined image -> dt_93621072
+2019-01-12T22:10:03.904Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_93621072 https://www.dreamstime.com/stock-photo-ice-pile-lies-leather-surface-melts-water-drains-image93621072#res16481627
+2019-01-12T22:10:03.905Z	INFO	infrastructure/logger.go:56	Get dt_97052826 key from Redis
+2019-01-12T22:10:04.415Z	INFO	infrastructure/logger.go:56	Pined image -> dt_97052826
+2019-01-12T22:10:04.417Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_97052826 https://www.dreamstime.com/editorial-photo-high-tower-transmission-telephone-signal-forest-against-background-beautiful-day-sky-image97052826#res16481627
+2019-01-12T22:10:04.418Z	INFO	infrastructure/logger.go:56	Get dt_97052962 key from Redis
+2019-01-12T22:10:04.784Z	INFO	infrastructure/logger.go:56	Pined image -> dt_97052962
+2019-01-12T22:10:04.785Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_97052962 https://www.dreamstime.com/editorial-photography-red-star-sickle-hammer-symbol-soviet-union-symbolism-already-disintegrated-great-country-image97052962#res16481627
+2019-01-12T22:10:04.786Z	INFO	infrastructure/logger.go:56	Get dt_125753010 key from Redis
+2019-01-12T22:10:05.242Z	INFO	infrastructure/logger.go:56	Pined image -> dt_125753010
+2019-01-12T22:10:05.243Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_125753010 https://www.dreamstime.com/drops-red-yellow-green-paint-sprayed-white-background-drops-red-yellow-green-paint-sprayed-white-image125753010#res16481627
+2019-01-12T22:10:05.244Z	INFO	infrastructure/logger.go:56	Get dt_101407926 key from Redis
+2019-01-12T22:10:05.942Z	INFO	infrastructure/logger.go:56	Pined image -> dt_101407926
+2019-01-12T22:10:05.943Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_101407926 https://www.dreamstime.com/russian-national-pattern-carpet-used-interior-houses-countryside-image101407926#res16481627
+2019-01-12T22:10:05.944Z	INFO	infrastructure/logger.go:56	Get dt_130223123 key from Redis
+2019-01-12T22:10:06.660Z	INFO	infrastructure/logger.go:56	Pined image -> dt_130223123
+2019-01-12T22:10:06.661Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_130223123 https://www.dreamstime.com/inscription-new-year-white-background-surrounded-festive-winter-attributes-beautifully-laid-out-sprinkled-image130223123#res16481627
+2019-01-12T22:10:06.662Z	INFO	infrastructure/logger.go:56	Get dt_119180685 key from Redis
+2019-01-12T22:10:07.189Z	INFO	infrastructure/logger.go:56	Pined image -> dt_119180685
+2019-01-12T22:10:07.190Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_119180685 https://www.dreamstime.com/beautifully-made-iron-details-bodi-who-sits-stone-his-left-hand-points-certain-direction-beautifully-made-image119180685#res16481627
+2019-01-12T22:10:07.191Z	INFO	infrastructure/logger.go:56	Get dt_119688683 key from Redis
+2019-01-12T22:10:07.837Z	INFO	infrastructure/logger.go:56	Pined image -> dt_119688683
+2019-01-12T22:10:07.839Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_119688683 https://www.dreamstime.com/old-red-circle-life-hangs-way-to-ladder-which-leads-ship-used-case-unfortunate-event-water-save-image119688683#res16481627
+2019-01-12T22:10:07.839Z	INFO	infrastructure/logger.go:56	Get dt_122061325 key from Redis
+2019-01-12T22:10:07.898Z	INFO	infrastructure/logger.go:56	PinterestError: {"status_code":429,"message":"You have exceeded your rate limit. Try again later.","Limit":{"Remaining":0,"Limit":10,"Refresh":3593}}
+2019-01-12T22:10:07.899Z	INFO	infrastructure/logger.go:56	PinterestError: {"status_code":429,"message":"You have exceeded your rate limit. Try again later.","Limit":{"Remaining":0,"Limit":10,"Refresh":3593}}
+2019-01-12T22:10:07.900Z	INFO	infrastructure/logger.go:56	Get dt_122061424 key from Redis
+2019-01-12T22:10:08.804Z	INFO	infrastructure/logger.go:56	Pined image -> dt_122061424
+2019-01-12T22:10:08.806Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_122061424 https://www.dreamstime.com/two-very-tired-horses-harnessed-to-harness-stand-front-carriage-have-traveled-long-way-resting-image122061424#res16481627
+2019-01-12T22:10:08.807Z	INFO	infrastructure/logger.go:56	Get dt_122061478 key from Redis
+2019-01-12T22:10:09.233Z	INFO	infrastructure/logger.go:56	Pined image -> dt_122061478
+2019-01-12T22:10:09.234Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_122061478 https://www.dreamstime.com/beautiful-little-houses-made-iron-small-windows-doors-very-carefully-unusual-execution-creates-feeling-coziness-image122061478#res16481627
+2019-01-12T22:10:09.234Z	INFO	infrastructure/logger.go:56	Get dt_95556677 key from Redis
+2019-01-12T22:10:09.870Z	INFO	infrastructure/logger.go:56	Pined image -> dt_95556677
+2019-01-12T22:10:09.871Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_95556677 https://www.dreamstime.com/stock-illustration-high-houses-big-city-all-have-lights-except-one-windows-lit-yellow-light-outside-night-image95556677#res16481627
+2019-01-12T22:10:09.872Z	INFO	infrastructure/logger.go:56	Get dt_95067485 key from Redis
+2019-01-12T22:10:10.477Z	INFO	infrastructure/logger.go:56	Pined image -> dt_95067485
+2019-01-12T22:10:10.478Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_95067485 https://www.dreamstime.com/editorial-image-photo-frames-which-you-can-put-photo-your-best-moments-life-will-remind-you-best-happened-your-image95067485#res16481627
+2019-01-12T22:10:10.479Z	INFO	infrastructure/logger.go:56	Get dt_125753022 key from Redis
+2019-01-12T22:10:10.947Z	INFO	infrastructure/logger.go:56	Pined image -> dt_125753022
+2019-01-12T22:10:10.948Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_125753022 https://www.dreamstime.com/small-cute-drop-blue-development-modern-technologies-has-led-to-creation-humanity-robots-their-own-good-image125753022#res16481627
+2019-01-12T22:10:10.949Z	INFO	infrastructure/logger.go:56	Get dt_128520597 key from Redis
+2019-01-12T22:10:11.452Z	INFO	infrastructure/logger.go:56	Pined image -> dt_128520597
+2019-01-12T22:10:11.453Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_128520597 https://www.dreamstime.com/small-teapot-two-porcelain-cups-stand-wooden-background-plate-lies-piece-delicious-cake-everything-ready-tea-image128520597#res16481627
+2019-01-12T22:10:11.454Z	INFO	infrastructure/logger.go:56	Get dt_128520603 key from Redis
+2019-01-12T22:10:12.086Z	INFO	infrastructure/logger.go:56	Pined image -> dt_128520603
+2019-01-12T22:10:12.087Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_128520603 https://www.dreamstime.com/firewood-stove-heating-sparks-fire-rise-up-temperature-planet-very-high-image128520603#res16481627
+2019-01-12T22:10:12.088Z	INFO	infrastructure/logger.go:56	Get dt_129857348 key from Redis
+2019-01-12T22:10:12.542Z	INFO	infrastructure/logger.go:56	Pined image -> dt_129857348
+2019-01-12T22:10:12.543Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_129857348 https://www.dreamstime.com/beautiful-colorful-garden-gnome-little-hedgehog-standing-under-tree-yellowing-leaves-autumn-very-time-image129857348#res16481627
+2019-01-12T22:10:12.544Z	INFO	infrastructure/logger.go:56	Get dt_129858024 key from Redis
+2019-01-12T22:10:13.058Z	INFO	infrastructure/logger.go:56	Pined image -> dt_129858024
+2019-01-12T22:10:13.060Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_129858024 https://www.dreamstime.com/girl-stands-next-to-fence-behind-which-stands-beautiful-big-deer-wonderful-horns-feeds-her-pet-food-image129858024#res16481627
+2019-01-12T22:10:13.061Z	INFO	infrastructure/logger.go:56	Get dt_136108433 key from Redis
+2019-01-12T22:10:13.548Z	INFO	infrastructure/logger.go:56	Pined image -> dt_136108433
+2019-01-12T22:10:13.549Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_136108433 https://www.dreamstime.com/delicious-cake-shape-bottom-tree-smile-kasivy-decorations-great-dessert-festive-tea-party-image136108433#res16481627
+2019-01-12T22:10:13.550Z	INFO	infrastructure/logger.go:56	Get dt_136108461 key from Redis
+2019-01-12T22:10:13.593Z	INFO	infrastructure/logger.go:56	PinterestError: {"status_code":429,"message":"You have exceeded your rate limit. Try again later.","Limit":{"Remaining":0,"Limit":10,"Refresh":3587}}
+2019-01-12T22:10:13.594Z	INFO	infrastructure/logger.go:56	PinterestError: {"status_code":429,"message":"You have exceeded your rate limit. Try again later.","Limit":{"Remaining":0,"Limit":10,"Refresh":3587}}
+2019-01-12T22:10:13.595Z	INFO	infrastructure/logger.go:56	Get dt_96626273 key from Redis
+2019-01-12T22:10:14.320Z	INFO	infrastructure/logger.go:56	Pined image -> dt_96626273
+2019-01-12T22:10:14.321Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_96626273 https://www.dreamstime.com/stock-photo-beautiful-white-flowers-garden-charming-all-drops-rain-very-nice-view-image96626273#res16481627
+2019-01-12T22:10:14.322Z	INFO	infrastructure/logger.go:56	Get dt_95302694 key from Redis
+2019-01-12T22:10:14.798Z	INFO	infrastructure/logger.go:56	Pined image -> dt_95302694
+2019-01-12T22:10:14.799Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_95302694 https://www.dreamstime.com/stock-photo-glade-flowers-family-astrological-forest-similar-to-dandelion-field-belongs-to-astrope-grow-water-image95302694#res16481627
+2019-01-12T22:10:14.799Z	INFO	infrastructure/logger.go:56	Get dt_95067682 key from Redis
+2019-01-12T22:10:15.306Z	INFO	infrastructure/logger.go:56	Pined image -> dt_95067682
+2019-01-12T22:10:15.307Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_95067682 https://www.dreamstime.com/stock-photo-photo-frames-which-you-can-put-photo-your-best-moments-life-will-remind-you-best-happened-your-image95067682#res16481627
+2019-01-12T22:10:15.308Z	INFO	infrastructure/logger.go:56	Get dt_94070597 key from Redis
+2019-01-12T22:10:15.671Z	INFO	infrastructure/logger.go:56	Pined image -> dt_94070597
+2019-01-12T22:10:15.673Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_94070597 https://www.dreamstime.com/stock-photo-sliced-vegetables-wooden-surface-cucumbers-radish-tomatoes-cut-rings-image94070597#res16481627
+2019-01-12T22:10:15.673Z	INFO	infrastructure/logger.go:56	Get dt_94070615 key from Redis
+2019-01-12T22:10:16.072Z	INFO	infrastructure/logger.go:56	Pined image -> dt_94070615
+2019-01-12T22:10:16.073Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_94070615 https://www.dreamstime.com/stock-photo-sliced-vegetables-wooden-surface-cucumbers-tomatoes-cut-rings-image94070615#res16481627
+2019-01-12T22:10:16.074Z	INFO	infrastructure/logger.go:56	Get dt_93355013 key from Redis
+2019-01-12T22:10:16.442Z	INFO	infrastructure/logger.go:56	Pined image -> dt_93355013
+2019-01-12T22:10:16.444Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_93355013 https://www.dreamstime.com/stock-photo-forest-snail-crawling-along-road-image93355013#res16481627
+2019-01-12T22:10:16.444Z	INFO	infrastructure/logger.go:56	Get dt_93555234 key from Redis
+2019-01-12T22:10:16.949Z	INFO	infrastructure/logger.go:56	Pined image -> dt_93555234
+2019-01-12T22:10:16.950Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_93555234 https://www.dreamstime.com/stock-photo-reflections-windows-windows-building-gray-wall-city-image93555234#res16481627
+2019-01-12T22:10:16.951Z	INFO	infrastructure/logger.go:56	Get dt_97758175 key from Redis
+2019-01-12T22:10:17.525Z	INFO	infrastructure/logger.go:56	Pined image -> dt_97758175
+2019-01-12T22:10:17.526Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_97758175 https://www.dreamstime.com/stock-photo-chicken-eggs-white-basket-white-background-jute-cloth-image97758175#res16481627
+2019-01-12T22:10:17.527Z	INFO	infrastructure/logger.go:56	Get dt_97758191 key from Redis
+2019-01-12T22:10:17.919Z	INFO	infrastructure/logger.go:56	Pined image -> dt_97758191
+2019-01-12T22:10:17.920Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_97758191 https://www.dreamstime.com/stock-photo-chicken-eggs-white-basket-white-background-jute-cloth-image97758191#res16481627
+2019-01-12T22:10:17.921Z	INFO	infrastructure/logger.go:56	Get dt_97758201 key from Redis
+2019-01-12T22:10:18.301Z	INFO	infrastructure/logger.go:56	Pined image -> dt_97758201
+2019-01-12T22:10:18.302Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_97758201 https://www.dreamstime.com/stock-photo-chicken-eggs-white-basket-white-background-jute-cloth-image97758201#res16481627
+2019-01-12T22:10:18.303Z	INFO	infrastructure/logger.go:56	Get dt_97758238 key from Redis
+2019-01-12T22:10:18.339Z	INFO	infrastructure/logger.go:56	PinterestError: {"status_code":429,"message":"You have exceeded your rate limit. Try again later.","Limit":{"Remaining":0,"Limit":10,"Refresh":3582}}
+2019-01-12T22:10:18.339Z	INFO	infrastructure/logger.go:56	PinterestError: {"status_code":429,"message":"You have exceeded your rate limit. Try again later.","Limit":{"Remaining":0,"Limit":10,"Refresh":3582}}
+2019-01-12T22:10:18.340Z	INFO	infrastructure/logger.go:56	Get dt_101120527 key from Redis
+2019-01-12T22:10:18.807Z	INFO	infrastructure/logger.go:56	Pined image -> dt_101120527
+2019-01-12T22:10:18.808Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_101120527 https://www.dreamstime.com/beautiful-christmas-decoration-white-background-shape-flower-decorating-christmas-tree-beautiful-christmas-image101120527#res16481627
+2019-01-12T22:10:18.809Z	INFO	infrastructure/logger.go:56	Get dt_136108418 key from Redis
+2019-01-12T22:10:19.339Z	INFO	infrastructure/logger.go:56	Pined image -> dt_136108418
+2019-01-12T22:10:19.340Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_136108418 https://www.dreamstime.com/pattern-cake-form-pig-muzzle-pattern-cake-form-pig-muzzle-pattern-made-image136108418#res16481627
+2019-01-12T22:10:19.341Z	INFO	infrastructure/logger.go:56	Get dt_96239923 key from Redis
+2019-01-12T22:10:19.923Z	INFO	infrastructure/logger.go:56	Pined image -> dt_96239923
+2019-01-12T22:10:19.924Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_96239923 https://www.dreamstime.com/stock-photo-many-strawberry-berries-flowers-strawberries-can-be-seen-village-fields-where-planted-number-image96239923#res16481627
+2019-01-12T22:10:19.925Z	INFO	infrastructure/logger.go:56	Get dt_97983725 key from Redis
+2019-01-12T22:10:20.405Z	INFO	infrastructure/logger.go:56	Pined image -> dt_97983725
+2019-01-12T22:10:20.406Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_97983725 https://www.dreamstime.com/stock-photo-yellow-leaf-watery-surface-lake-waves-image97983725#res16481627
+2019-01-12T22:10:20.407Z	INFO	infrastructure/logger.go:56	Get dt_97983741 key from Redis
+2019-01-12T22:10:20.996Z	INFO	infrastructure/logger.go:56	Pined image -> dt_97983741
+2019-01-12T22:10:20.997Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_97983741 https://www.dreamstime.com/stock-photo-yellow-leaf-watery-surface-lake-waves-image97983741#res16481627
+2019-01-12T22:10:20.998Z	INFO	infrastructure/logger.go:56	Get dt_95436241 key from Redis
+2019-01-12T22:10:21.448Z	INFO	infrastructure/logger.go:56	Pined image -> dt_95436241
+2019-01-12T22:10:21.449Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_95436241 https://www.dreamstime.com/stock-photo-salad-leeks-bell-peppers-tomatoes-vitamin-vegetables-prepared-ingredients-leek-bulgarian-red-pepper-red-image95436241#res16481627
+2019-01-12T22:10:21.450Z	INFO	infrastructure/logger.go:56	Get dt_97181119 key from Redis
+2019-01-12T22:10:21.884Z	INFO	infrastructure/logger.go:56	Pined image -> dt_97181119
+2019-01-12T22:10:21.886Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_97181119 https://www.dreamstime.com/stock-photo-postage-stamps-soviet-union-ussr-theme-antiquities-ancient-architecture-image97181119#res16481627
+2019-01-12T22:10:21.887Z	INFO	infrastructure/logger.go:56	Get dt_97758223 key from Redis
+2019-01-12T22:10:22.461Z	INFO	infrastructure/logger.go:56	Pined image -> dt_97758223
+2019-01-12T22:10:22.463Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_97758223 https://www.dreamstime.com/stock-photo-cupcakes-sprinkled-powdered-sugar-white-background-image97758223#res16481627
+2019-01-12T22:10:22.463Z	INFO	infrastructure/logger.go:56	Get dt_96239755 key from Redis
+2019-01-12T22:10:22.847Z	INFO	infrastructure/logger.go:56	Pined image -> dt_96239755
+2019-01-12T22:10:22.848Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_96239755 https://www.dreamstime.com/stock-photo-beginning-to-grow-bush-bulgarian-pepper-red-bushes-greenhouse-farm-village-image96239755#res16481627
+2019-01-12T22:10:22.849Z	INFO	infrastructure/logger.go:56	Get dt_96240202 key from Redis
+2019-01-12T22:10:23.347Z	INFO	infrastructure/logger.go:56	Pined image -> dt_96240202
+2019-01-12T22:10:23.349Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_96240202 https://www.dreamstime.com/stock-photo-red-strawberries-flower-tea-rose-combination-fresh-forest-berries-flowers-brewing-beautiful-composition-image96240202#res16481627
+2019-01-12T22:10:23.350Z	INFO	infrastructure/logger.go:56	Get dt_97983701 key from Redis
+2019-01-12T22:10:23.392Z	INFO	infrastructure/logger.go:56	PinterestError: {"status_code":429,"message":"You have exceeded your rate limit. Try again later.","Limit":{"Remaining":0,"Limit":10,"Refresh":3578}}
+2019-01-12T22:10:23.392Z	INFO	infrastructure/logger.go:56	PinterestError: {"status_code":429,"message":"You have exceeded your rate limit. Try again later.","Limit":{"Remaining":0,"Limit":10,"Refresh":3578}}
+2019-01-12T22:10:23.392Z	INFO	infrastructure/logger.go:56	Get dt_97983758 key from Redis
+2019-01-12T22:10:24.081Z	INFO	infrastructure/logger.go:56	Pined image -> dt_97983758
+2019-01-12T22:10:24.082Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_97983758 https://www.dreamstime.com/stock-photo-green-leaves-kaluga-water-surface-lake-watery-blue-clean-image97983758#res16481627
+2019-01-12T22:10:24.083Z	INFO	infrastructure/logger.go:56	Get dt_96943649 key from Redis
+2019-01-12T22:10:24.555Z	INFO	infrastructure/logger.go:56	Pined image -> dt_96943649
+2019-01-12T22:10:24.557Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_96943649 https://www.dreamstime.com/stock-photo-green-beetle-sits-white-daisy-flower-glade-forest-beautiful-large-antennas-image96943649#res16481627
+2019-01-12T22:10:24.557Z	INFO	infrastructure/logger.go:56	Get dt_96943703 key from Redis
+2019-01-12T22:10:25.226Z	INFO	infrastructure/logger.go:56	Pined image -> dt_96943703
+2019-01-12T22:10:25.227Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_96943703 https://www.dreamstime.com/stock-photo-green-beetle-sits-white-daisy-flower-glade-forest-beautiful-large-antennas-image96943703#res16481627
+2019-01-12T22:10:25.228Z	INFO	infrastructure/logger.go:56	Get dt_96994335 key from Redis
+2019-01-12T22:10:25.781Z	INFO	infrastructure/logger.go:56	Pined image -> dt_96994335
+2019-01-12T22:10:25.783Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_96994335 https://www.dreamstime.com/stock-photo-fresh-fish-fillet-pangasius-ready-cooking-sprinkled-aromatic-various-delicious-spices-seasonings-image96994335#res16481627
+2019-01-12T22:10:25.783Z	INFO	infrastructure/logger.go:56	Get dt_96572137 key from Redis
+2019-01-12T22:10:26.181Z	INFO	infrastructure/logger.go:56	Pined image -> dt_96572137
+2019-01-12T22:10:26.182Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_96572137 https://www.dreamstime.com/stock-photo-pair-beautiful-red-flowers-garden-large-many-varieties-such-grow-image96572137#res16481627
+2019-01-12T22:10:26.183Z	INFO	infrastructure/logger.go:56	Get dt_96572173 key from Redis
+2019-01-12T22:10:26.614Z	INFO	infrastructure/logger.go:56	Pined image -> dt_96572173
+2019-01-12T22:10:26.616Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_96572173 https://www.dreamstime.com/stock-photo-product-made-garbage-waste-materials-not-everything-throw-useless-some-things-can-be-used-to-make-very-image96572173#res16481627
+2019-01-12T22:10:26.616Z	INFO	infrastructure/logger.go:56	Get dt_96994429 key from Redis
+2019-01-12T22:10:27.075Z	INFO	infrastructure/logger.go:56	Pined image -> dt_96994429
+2019-01-12T22:10:27.076Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_96994429 https://www.dreamstime.com/stock-photo-girl-holding-wreath-flowers-above-water-wreathed-beautiful-over-river-image96994429#res16481627
+2019-01-12T22:10:27.077Z	INFO	infrastructure/logger.go:56	Get dt_96572139 key from Redis
+2019-01-12T22:10:27.508Z	INFO	infrastructure/logger.go:56	Pined image -> dt_96572139
+2019-01-12T22:10:27.510Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_96572139 https://www.dreamstime.com/stock-photo-flower-tragopogon-pratensis-as-also-called-meadow-goat-like-dandelion-has-ball-similar-to-ball-few-image96572139#res16481627
+2019-01-12T22:10:27.510Z	INFO	infrastructure/logger.go:56	Get dt_99167407 key from Redis
+2019-01-12T22:10:28.131Z	INFO	infrastructure/logger.go:56	Pined image -> dt_99167407
+2019-01-12T22:10:28.132Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_99167407 https://www.dreamstime.com/editorial-photography-vintage-speedometer-vintage-speedometer-old-retro-motorcycle-image99167407#res16481627
+2019-01-12T22:10:28.133Z	INFO	infrastructure/logger.go:56	Get dt_101409294 key from Redis
+2019-01-12T22:10:28.862Z	INFO	infrastructure/logger.go:56	Pined image -> dt_101409294
+2019-01-12T22:10:28.863Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_101409294 https://www.dreamstime.com/large-metal-valve-heating-system-water-pipe-black-color-large-metal-valve-heating-system-water-pipe-image101409294#res16481627
+2019-01-12T22:10:28.864Z	INFO	infrastructure/logger.go:56	Get dt_100667379 key from Redis
+2019-01-12T22:10:28.905Z	INFO	infrastructure/logger.go:56	PinterestError: {"status_code":429,"message":"You have exceeded your rate limit. Try again later.","Limit":{"Remaining":0,"Limit":10,"Refresh":3572}}
+2019-01-12T22:10:28.905Z	INFO	infrastructure/logger.go:56	PinterestError: {"status_code":429,"message":"You have exceeded your rate limit. Try again later.","Limit":{"Remaining":0,"Limit":10,"Refresh":3572}}
+2019-01-12T22:10:28.906Z	INFO	infrastructure/logger.go:56	Get dt_100667634 key from Redis
+2019-01-12T22:10:30.175Z	INFO	infrastructure/logger.go:56	Pined image -> dt_100667634
+2019-01-12T22:10:30.176Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_100667634 https://www.dreamstime.com/beautiful-dry-flower-red-rose-lies-window-multicolored-books-dried-flower-red-rose-lies-image100667634#res16481627
+2019-01-12T22:10:30.177Z	INFO	infrastructure/logger.go:56	Get dt_98320050 key from Redis
+2019-01-12T22:10:30.595Z	INFO	infrastructure/logger.go:56	Pined image -> dt_98320050
+2019-01-12T22:10:30.596Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_98320050 https://www.dreamstime.com/stock-photo-roasted-sausage-poured-red-spicy-sauce-fried-open-fire-ready-use-prepared-hiking-trip-image98320050#res16481627
+2019-01-12T22:10:30.596Z	INFO	infrastructure/logger.go:56	Get dt_98320091 key from Redis
+2019-01-12T22:10:31.083Z	INFO	infrastructure/logger.go:56	Pined image -> dt_98320091
+2019-01-12T22:10:31.084Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_98320091 https://www.dreamstime.com/stock-photo-roasted-sausage-poured-red-spicy-sauce-fried-open-fire-ready-use-prepared-hiking-trip-image98320091#res16481627
+2019-01-12T22:10:31.085Z	INFO	infrastructure/logger.go:56	Get dt_96834899 key from Redis
+2019-01-12T22:10:31.479Z	INFO	infrastructure/logger.go:56	Pined image -> dt_96834899
+2019-01-12T22:10:31.480Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_96834899 https://www.dreamstime.com/stock-photo-bumblebees-purple-flowers-forest-several-wild-plant-collect-nectar-image96834899#res16481627
+2019-01-12T22:10:31.480Z	INFO	infrastructure/logger.go:56	Get dt_101409059 key from Redis
+2019-01-12T22:10:31.970Z	INFO	infrastructure/logger.go:56	Pined image -> dt_101409059
+2019-01-12T22:10:31.972Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_101409059 https://www.dreamstime.com/large-stove-boiler-room-diluted-fire-large-stove-boiler-room-diluted-fire-heating-settlement-image101409059#res16481627
+2019-01-12T22:10:31.972Z	INFO	infrastructure/logger.go:56	Get dt_97367514 key from Redis
+2019-01-12T22:10:32.366Z	INFO	infrastructure/logger.go:56	Pined image -> dt_97367514
+2019-01-12T22:10:32.367Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_97367514 https://www.dreamstime.com/stock-photo-view-logs-lying-sandy-shore-lake-opposite-hills-sky-thick-clouds-image97367514#res16481627
+2019-01-12T22:10:32.368Z	INFO	infrastructure/logger.go:56	Get dt_97983779 key from Redis
+2019-01-12T22:10:33.031Z	INFO	infrastructure/logger.go:56	Pined image -> dt_97983779
+2019-01-12T22:10:33.032Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_97983779 https://www.dreamstime.com/stock-photo-yellow-flower-kaluzhnitsa-lake-shore-kaluga-leaves-clean-image97983779#res16481627
+2019-01-12T22:10:33.033Z	INFO	infrastructure/logger.go:56	Get dt_97983795 key from Redis
+2019-01-12T22:10:33.552Z	INFO	infrastructure/logger.go:56	Pined image -> dt_97983795
+2019-01-12T22:10:33.554Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_97983795 https://www.dreamstime.com/stock-photo-yellow-flower-kaluzhnitsa-lake-shore-kaluga-leaves-clean-image97983795#res16481627
+2019-01-12T22:10:33.554Z	INFO	infrastructure/logger.go:56	Get dt_97367489 key from Redis
+2019-01-12T22:10:34.961Z	INFO	infrastructure/logger.go:56	Pined image -> dt_97367489
+2019-01-12T22:10:34.962Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_97367489 https://www.dreamstime.com/stock-photo-beauty-nature-clouds-lake-hills-forest-view-sky-sandy-shore-image97367489#res16481627
+2019-01-12T22:10:34.963Z	INFO	infrastructure/logger.go:56	Get dt_101120095 key from Redis
+2019-01-12T22:10:35.597Z	INFO	infrastructure/logger.go:56	Pined image -> dt_101120095
+2019-01-12T22:10:35.598Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_101120095 https://www.dreamstime.com/beautiful-colorful-christmas-decoration-beautiful-colorful-christmas-decoration-form-five-pointed-star-image101120095#res16481627
+2019-01-12T22:10:35.599Z	INFO	infrastructure/logger.go:56	Get dt_98320034 key from Redis
+2019-01-12T22:10:35.667Z	INFO	infrastructure/logger.go:56	PinterestError: {"status_code":429,"message":"You have exceeded your rate limit. Try again later.","Limit":{"Remaining":0,"Limit":10,"Refresh":3566}}
+2019-01-12T22:10:35.667Z	INFO	infrastructure/logger.go:56	PinterestError: {"status_code":429,"message":"You have exceeded your rate limit. Try again later.","Limit":{"Remaining":0,"Limit":10,"Refresh":3566}}
+2019-01-12T22:10:35.668Z	INFO	infrastructure/logger.go:56	Get dt_96572103 key from Redis
+2019-01-12T22:10:36.078Z	INFO	infrastructure/logger.go:56	Pined image -> dt_96572103
+2019-01-12T22:10:36.079Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_96572103 https://www.dreamstime.com/stock-photo-many-colors-beautiful-shades-dairy-to-red-different-flower-grows-garden-fenced-stone-wall-image96572103#res16481627
+2019-01-12T22:10:36.080Z	INFO	infrastructure/logger.go:56	Get dt_98740201 key from Redis
+2019-01-12T22:10:36.246Z	INFO	infrastructure/logger.go:56	PinterestError: {"status_code":400,"message":"Sorry we could not fetch the image.","Limit":{"Remaining":8,"Limit":10,"Refresh":0}}
+2019-01-12T22:10:36.246Z	INFO	infrastructure/logger.go:56	PinterestError: {"status_code":400,"message":"Sorry we could not fetch the image.","Limit":{"Remaining":8,"Limit":10,"Refresh":0}}
+2019-01-12T22:10:36.247Z	INFO	infrastructure/logger.go:56	Get dt_100667341 key from Redis
+2019-01-12T22:10:36.820Z	INFO	infrastructure/logger.go:56	Pined image -> dt_100667341
+2019-01-12T22:10:36.821Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_100667341 https://www.dreamstime.com/bright-yellow-flower-sunflower-large-petals-growing-garden-village-image100667341#res16481627
+2019-01-12T22:10:36.822Z	INFO	infrastructure/logger.go:56	Get dt_100667551 key from Redis
+2019-01-12T22:10:37.879Z	INFO	infrastructure/logger.go:56	Pined image -> dt_100667551
+2019-01-12T22:10:37.880Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_100667551 https://www.dreamstime.com/bright-yellow-flower-sunflower-large-petals-growing-garden-village-image100667551#res16481627
+2019-01-12T22:10:37.881Z	INFO	infrastructure/logger.go:56	Get dt_100667735 key from Redis
+2019-01-12T22:10:38.335Z	INFO	infrastructure/logger.go:56	Pined image -> dt_100667735
+2019-01-12T22:10:38.336Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_100667735 https://www.dreamstime.com/bright-yellow-sunflower-flower-large-yellow-petals-bright-yellow-sunflower-flower-large-yellow-petals-growing-image100667735#res16481627
+2019-01-12T22:10:38.337Z	INFO	infrastructure/logger.go:56	Get dt_100667831 key from Redis
+2019-01-12T22:10:38.834Z	INFO	infrastructure/logger.go:56	Pined image -> dt_100667831
+2019-01-12T22:10:38.836Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_100667831 https://www.dreamstime.com/bright-yellow-sunflower-flower-large-yellow-petals-bright-yellow-sunflower-flower-large-yellow-petals-growing-image100667831#res16481627
+2019-01-12T22:10:38.836Z	INFO	infrastructure/logger.go:56	Get dt_101409329 key from Redis
+2019-01-12T22:10:39.309Z	INFO	infrastructure/logger.go:56	Pined image -> dt_101409329
+2019-01-12T22:10:39.311Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_101409329 https://www.dreamstime.com/beautiful-brown-horse-road-countryside-farm-beautiful-brown-horse-road-countryside-image101409329#res16481627
+2019-01-12T22:10:39.311Z	INFO	infrastructure/logger.go:56	Get dt_101410897 key from Redis
+2019-01-12T22:10:39.914Z	INFO	infrastructure/logger.go:56	Pined image -> dt_101410897
+2019-01-12T22:10:39.915Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_101410897 https://www.dreamstime.com/large-adult-cow-eats-grass-pasture-large-adult-cow-eats-grass-pasture-countryside-image101410897#res16481627
+2019-01-12T22:10:39.916Z	INFO	infrastructure/logger.go:56	Get dt_98319971 key from Redis
+2019-01-12T22:10:40.348Z	INFO	infrastructure/logger.go:56	Pined image -> dt_98319971
+2019-01-12T22:10:40.349Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_98319971 https://www.dreamstime.com/stock-photo-roasted-sausage-poured-red-spicy-sauce-fried-open-fire-ready-use-prepared-hiking-trip-image98319971#res16481627
+2019-01-12T22:10:40.350Z	INFO	infrastructure/logger.go:56	Get dt_98320054 key from Redis
+2019-01-12T22:10:40.789Z	INFO	infrastructure/logger.go:56	Pined image -> dt_98320054
+2019-01-12T22:10:40.790Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_98320054 https://www.dreamstime.com/stock-photo-roasted-sausage-poured-red-spicy-sauce-fried-open-fire-ready-use-prepared-hiking-trip-image98320054#res16481627
+2019-01-12T22:10:40.791Z	INFO	infrastructure/logger.go:56	Get dt_101410361 key from Redis
+2019-01-12T22:10:41.310Z	INFO	infrastructure/logger.go:56	Pined image -> dt_101410361
+2019-01-12T22:10:41.311Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_101410361 https://www.dreamstime.com/beautiful-maple-leaf-tree-different-autumn-shades-beautiful-maple-leaf-tree-different-autumn-shades-drops-image101410361#res16481627
+2019-01-12T22:10:41.312Z	INFO	infrastructure/logger.go:56	Get dt_101120091 key from Redis
+2019-01-12T22:10:41.659Z	INFO	infrastructure/logger.go:56	Pined image -> dt_101120091
+2019-01-12T22:10:41.660Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_101120091 https://www.dreamstime.com/beautiful-christmas-ball-decorating-tree-red-shade-white-background-image101120091#res16481627
+2019-01-12T22:10:41.661Z	INFO	infrastructure/logger.go:56	Get dt_101120665 key from Redis
+2019-01-12T22:10:41.697Z	INFO	infrastructure/logger.go:56	PinterestError: {"status_code":429,"message":"You have exceeded your rate limit. Try again later.","Limit":{"Remaining":0,"Limit":10,"Refresh":3559}}
+2019-01-12T22:10:41.698Z	INFO	infrastructure/logger.go:56	PinterestError: {"status_code":429,"message":"You have exceeded your rate limit. Try again later.","Limit":{"Remaining":0,"Limit":10,"Refresh":3559}}
+2019-01-12T22:10:41.698Z	INFO	infrastructure/logger.go:56	Get dt_101120669 key from Redis
+2019-01-12T22:10:42.103Z	INFO	infrastructure/logger.go:56	Pined image -> dt_101120669
+2019-01-12T22:10:42.104Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_101120669 https://www.dreamstime.com/christmas-decoration-form-little-decorated-garlands-balls-christmas-tree-white-background-image101120669#res16481627
+2019-01-12T22:10:42.105Z	INFO	infrastructure/logger.go:56	Get dt_101120894 key from Redis
+2019-01-12T22:10:43.205Z	INFO	infrastructure/logger.go:56	Pined image -> dt_101120894
+2019-01-12T22:10:43.206Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_101120894 https://www.dreamstime.com/colorful-toy-decoration-decorated-christmas-tree-five-pointed-star-colorful-toy-decoration-decorated-image101120894#res16481627
+2019-01-12T22:10:43.207Z	INFO	infrastructure/logger.go:56	Get dt_102692346 key from Redis
+2019-01-12T22:10:43.835Z	INFO	infrastructure/logger.go:56	Pined image -> dt_102692346
+2019-01-12T22:10:43.836Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_102692346 https://www.dreamstime.com/beautiful-texture-planed-log-made-pine-wood-beautiful-texture-planed-log-made-pine-wood-which-used-to-build-image102692346#res16481627
+2019-01-12T22:10:43.837Z	INFO	infrastructure/logger.go:56	Get dt_102692375 key from Redis
+2019-01-12T22:10:44.533Z	INFO	infrastructure/logger.go:56	Pined image -> dt_102692375
+2019-01-12T22:10:44.535Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_102692375 https://www.dreamstime.com/earth-covered-thin-crust-ice-first-autumn-frosts-earth-covered-thin-crust-ice-image102692375#res16481627
+2019-01-12T22:10:44.536Z	INFO	infrastructure/logger.go:56	Get dt_102347782 key from Redis
+2019-01-12T22:10:44.908Z	INFO	infrastructure/logger.go:56	Pined image -> dt_102347782
+2019-01-12T22:10:44.909Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_102347782 https://www.dreamstime.com/pair-juicy-winter-beautiful-apples-hang-autumn-tree-still-adorned-green-leaves-waiting-harvest-droplets-image102347782#res16481627
+2019-01-12T22:10:44.910Z	INFO	infrastructure/logger.go:56	Get dt_102347789 key from Redis
+2019-01-12T22:10:45.260Z	INFO	infrastructure/logger.go:56	Pined image -> dt_102347789
+2019-01-12T22:10:45.262Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_102347789 https://www.dreamstime.com/pair-juicy-winter-beautiful-apples-hang-autumn-tree-still-adorned-green-leaves-waiting-harvest-pair-image102347789#res16481627
+2019-01-12T22:10:45.262Z	INFO	infrastructure/logger.go:56	Get dt_102347893 key from Redis
+2019-01-12T22:10:45.714Z	INFO	infrastructure/logger.go:56	Pined image -> dt_102347893
+2019-01-12T22:10:45.715Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_102347893 https://www.dreamstime.com/ripe-red-shade-fruits-small-plum-chinese-apples-ripe-red-shade-fruits-small-plum-chinese-apples-fallen-trees-image102347893#res16481627
+2019-01-12T22:10:45.716Z	INFO	infrastructure/logger.go:56	Get dt_102347914 key from Redis
+2019-01-12T22:10:46.402Z	INFO	infrastructure/logger.go:56	Pined image -> dt_102347914
+2019-01-12T22:10:46.409Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_102347914 https://www.dreamstime.com/dry-plant-fruits-called-hops-which-used-to-make-intoxicating-alcoholic-beverages-image102347914#res16481627
+2019-01-12T22:10:46.409Z	INFO	infrastructure/logger.go:56	Get dt_101408515 key from Redis
+2019-01-12T22:10:47.143Z	INFO	infrastructure/logger.go:56	Pined image -> dt_101408515
+2019-01-12T22:10:47.146Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_101408515 https://www.dreamstime.com/few-house-hens-farm-village-animal-enclosure-image101408515#res16481627
+2019-01-12T22:10:47.147Z	INFO	infrastructure/logger.go:56	Get dt_101408803 key from Redis
+2019-01-12T22:10:47.752Z	INFO	infrastructure/logger.go:56	Pined image -> dt_101408803
+2019-01-12T22:10:47.754Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_101408803 https://www.dreamstime.com/view-taiga-endless-blue-sky-outskirts-village-lonely-bush-edge-forest-image101408803#res16481627
+2019-01-12T22:10:47.754Z	INFO	infrastructure/logger.go:56	Get dt_101409230 key from Redis
+2019-01-12T22:10:47.805Z	INFO	infrastructure/logger.go:56	PinterestError: {"status_code":429,"message":"You have exceeded your rate limit. Try again later.","Limit":{"Remaining":0,"Limit":10,"Refresh":3554}}
+2019-01-12T22:10:47.805Z	INFO	infrastructure/logger.go:56	PinterestError: {"status_code":429,"message":"You have exceeded your rate limit. Try again later.","Limit":{"Remaining":0,"Limit":10,"Refresh":3554}}
+2019-01-12T22:10:47.806Z	INFO	infrastructure/logger.go:56	Get dt_101410277 key from Redis
+2019-01-12T22:10:48.479Z	INFO	infrastructure/logger.go:56	Pined image -> dt_101410277
+2019-01-12T22:10:48.481Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_101410277 https://www.dreamstime.com/yellowed-pine-tree-edge-forest-yellowed-pine-tree-edge-forest-autumn-season-image101410277#res16481627
+2019-01-12T22:10:48.481Z	INFO	infrastructure/logger.go:56	Get dt_101410397 key from Redis
+2019-01-12T22:10:49.139Z	INFO	infrastructure/logger.go:56	Pined image -> dt_101410397
+2019-01-12T22:10:49.141Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_101410397 https://www.dreamstime.com/lone-white-dog-sits-porch-house-anticipation-lone-white-dog-sits-porch-house-image101410397#res16481627
+2019-01-12T22:10:49.141Z	INFO	infrastructure/logger.go:56	Get dt_101120689 key from Redis
+2019-01-12T22:10:49.502Z	INFO	infrastructure/logger.go:56	Pined image -> dt_101120689
+2019-01-12T22:10:49.503Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_101120689 https://www.dreamstime.com/three-multi-colored-christmas-decorations-shape-balloon-painted-gold-patterns-three-multi-colored-christmas-image101120689#res16481627
+2019-01-12T22:10:49.504Z	INFO	infrastructure/logger.go:56	Get dt_101121094 key from Redis
+2019-01-12T22:10:49.831Z	INFO	infrastructure/logger.go:56	Pined image -> dt_101121094
+2019-01-12T22:10:49.832Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_101121094 https://www.dreamstime.com/three-multi-colored-christmas-decorations-shape-balloon-painted-gold-patterns-three-multi-colored-christmas-image101121094#res16481627
+2019-01-12T22:10:49.833Z	INFO	infrastructure/logger.go:56	Get dt_98740211 key from Redis
+2019-01-12T22:10:50.325Z	INFO	infrastructure/logger.go:56	Pined image -> dt_98740211
+2019-01-12T22:10:50.326Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_98740211 https://www.dreamstime.com/stock-photo-beautiful-black-horse-eating-grass-green-glade-next-to-pen-image98740211#res16481627
+2019-01-12T22:10:50.327Z	INFO	infrastructure/logger.go:56	Get dt_98740273 key from Redis
+2019-01-12T22:10:50.832Z	INFO	infrastructure/logger.go:56	Pined image -> dt_98740273
+2019-01-12T22:10:50.833Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_98740273 https://www.dreamstime.com/stock-photo-beautiful-black-horse-eating-grass-green-glade-next-to-pen-image98740273#res16481627
+2019-01-12T22:10:50.834Z	INFO	infrastructure/logger.go:56	Get dt_103067215 key from Redis
+2019-01-12T22:10:51.236Z	INFO	infrastructure/logger.go:56	Pined image -> dt_103067215
+2019-01-12T22:10:51.237Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_103067215 https://www.dreamstime.com/mechanism-knob-knocking-opening-door-gate-mechanism-knob-knocking-opening-door-gate-over-time-image103067215#res16481627
+2019-01-12T22:10:51.238Z	INFO	infrastructure/logger.go:56	Get dt_103067318 key from Redis
+2019-01-12T22:10:51.766Z	INFO	infrastructure/logger.go:56	Pined image -> dt_103067318
+2019-01-12T22:10:51.767Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_103067318 https://www.dreamstime.com/abstraction-executed-nature-water-frozen-pond-turned-ice-beautiful-varied-patterns-water-frozen-image103067318#res16481627
+2019-01-12T22:10:51.768Z	INFO	infrastructure/logger.go:56	Get dt_96834874 key from Redis
+2019-01-12T22:10:52.249Z	INFO	infrastructure/logger.go:56	Pined image -> dt_96834874
+2019-01-12T22:10:52.250Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_96834874 https://www.dreamstime.com/stock-photo-barbed-wire-against-gray-sky-gloomy-summer-day-fence-fenced-territory-like-open-to-image96834874#res16481627
+2019-01-12T22:10:52.251Z	INFO	infrastructure/logger.go:56	Get dt_102933479 key from Redis
+2019-01-12T22:10:52.795Z	INFO	infrastructure/logger.go:56	Pined image -> dt_102933479
+2019-01-12T22:10:52.796Z	INFO	infrastructure/logger.go:56	INSERT INTO shutterstock dt_102933479 https://www.dreamstime.com/bread-made-rye-wheat-flour-freshly-sliced-green-pieces-cucumber-lie-board-cutting-food-prepared-fo-image102933479#res16481627
+2019-01-12T22:10:52.797Z	INFO	infrastructure/logger.go:56	Get dt_102933030 key from Redis
+2019-01-12T22:10:52.839Z	INFO	infrastructure/logger.go:56	PinterestError: {"status_code":429,"message":"You have exceeded your rate limit. Try again later.","Limit":{"Remaining":0,"Limit":10,"Refresh":3548}}
+2019-01-12T22:10:52.839Z	INFO	infrastructure/logger.go:56	PinterestError: {"status_code":429,"message":"You have exceeded your rate limit. Try again later.","Limit":{"Remaining":0,"Limit":10,"Refresh":3548}}
+2019-01-12T22:10:52.839Z	INFO	infrastructure/logger.go:56	SUCCESS!!!
