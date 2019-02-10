@@ -1,0 +1,44 @@
+2019-02-10 12:13:02,328 - root - INFO - 
+START......................2019-02-10 12:13:02
+2019-02-10 12:13:02,329 - root - INFO - Logger initialize........................
+2019-02-10 12:13:02,334 - root - INFO - Start NEW process!!!
+2019-02-10 12:13:02,494 - root - INFO - https://submit.shutterstock.com/earnings/daily?page=1&date=2019-02-10&language=en&category=25_a_day&sort=desc&sorted_by=count&per_page=20
+2019-02-10 12:13:02,898 - root - INFO - empty url ->https://submit.shutterstock.com/earnings/daily?page=2&date=2019-02-10&language=en&category=25_a_day&sort=desc&sorted_by=count&per_page=20
+2019-02-10 12:13:03,088 - root - INFO - empty url ->https://submit.shutterstock.com/earnings/daily?page=1&date=2019-02-10&language=en&category=on_demand&sort=desc&sorted_by=count&per_page=20
+2019-02-10 12:13:03,361 - root - INFO - empty url ->https://submit.shutterstock.com/earnings/daily?page=1&date=2019-02-10&language=en&category=enhanced&sort=desc&sorted_by=count&per_page=20
+2019-02-10 12:13:03,607 - root - INFO - empty url ->https://submit.shutterstock.com/earnings/daily?page=1&date=2019-02-10&language=en&category=single_image_and_other&sort=desc&sorted_by=count&per_page=20
+2019-02-10 12:13:03,609 - root - INFO - END................................2019-02-10 12:13:03
+
+2019-02-10 12:14:02,655 - root - INFO - 
+START......................2019-02-10 12:14:02
+2019-02-10 12:14:02,655 - root - INFO - Logger initialize........................
+2019-02-10 12:14:02,658 - root - INFO - Start NEW process!!!
+2019-02-10 12:14:02,826 - root - INFO - https://submit.shutterstock.com/earnings/daily?page=1&date=2019-02-10&language=en&category=25_a_day&sort=desc&sorted_by=count&per_page=20
+2019-02-10 12:14:03,266 - root - INFO - empty url ->https://submit.shutterstock.com/earnings/daily?page=2&date=2019-02-10&language=en&category=25_a_day&sort=desc&sorted_by=count&per_page=20
+2019-02-10 12:14:03,450 - root - INFO - empty url ->https://submit.shutterstock.com/earnings/daily?page=1&date=2019-02-10&language=en&category=on_demand&sort=desc&sorted_by=count&per_page=20
+2019-02-10 12:14:03,698 - root - INFO - empty url ->https://submit.shutterstock.com/earnings/daily?page=1&date=2019-02-10&language=en&category=enhanced&sort=desc&sorted_by=count&per_page=20
+2019-02-10 12:14:03,941 - root - INFO - empty url ->https://submit.shutterstock.com/earnings/daily?page=1&date=2019-02-10&language=en&category=single_image_and_other&sort=desc&sorted_by=count&per_page=20
+2019-02-10 12:14:03,943 - root - INFO - END................................2019-02-10 12:14:03
+
+2019-02-10 12:15:02,815 - root - INFO - 
+START......................2019-02-10 12:15:02
+2019-02-10 12:15:02,815 - root - INFO - Logger initialize........................
+2019-02-10 12:15:02,818 - root - INFO - Start NEW process!!!
+2019-02-10 12:15:02,999 - root - INFO - https://submit.shutterstock.com/earnings/daily?page=1&date=2019-02-10&language=en&category=25_a_day&sort=desc&sorted_by=count&per_page=20
+2019-02-10 12:15:03,414 - root - INFO - empty url ->https://submit.shutterstock.com/earnings/daily?page=2&date=2019-02-10&language=en&category=25_a_day&sort=desc&sorted_by=count&per_page=20
+2019-02-10 12:15:03,664 - root - INFO - empty url ->https://submit.shutterstock.com/earnings/daily?page=1&date=2019-02-10&language=en&category=on_demand&sort=desc&sorted_by=count&per_page=20
+2019-02-10 12:15:03,852 - root - INFO - empty url ->https://submit.shutterstock.com/earnings/daily?page=1&date=2019-02-10&language=en&category=enhanced&sort=desc&sorted_by=count&per_page=20
+2019-02-10 12:15:04,089 - root - INFO - empty url ->https://submit.shutterstock.com/earnings/daily?page=1&date=2019-02-10&language=en&category=single_image_and_other&sort=desc&sorted_by=count&per_page=20
+2019-02-10 12:15:04,091 - root - INFO - END................................2019-02-10 12:15:04
+
+2019-02-10 12:16:02,871 - root - INFO - 
+START......................2019-02-10 12:16:02
+2019-02-10 12:16:02,871 - root - INFO - Logger initialize........................
+2019-02-10 12:16:02,878 - root - INFO - Start NEW process!!!
+2019-02-10 12:16:03,056 - root - INFO - https://submit.shutterstock.com/earnings/daily?page=1&date=2019-02-10&language=en&category=25_a_day&sort=desc&sorted_by=count&per_page=20
+2019-02-10 12:16:03,633 - root - INFO - empty url ->https://submit.shutterstock.com/earnings/daily?page=2&date=2019-02-10&language=en&category=25_a_day&sort=desc&sorted_by=count&per_page=20
+2019-02-10 12:16:03,822 - root - INFO - empty url ->https://submit.shutterstock.com/earnings/daily?page=1&date=2019-02-10&language=en&category=on_demand&sort=desc&sorted_by=count&per_page=20
+2019-02-10 12:16:04,015 - root - INFO - empty url ->https://submit.shutterstock.com/earnings/daily?page=1&date=2019-02-10&language=en&category=enhanced&sort=desc&sorted_by=count&per_page=20
+2019-02-10 12:16:04,346 - root - INFO - empty url ->https://submit.shutterstock.com/earnings/daily?page=1&date=2019-02-10&language=en&category=single_image_and_other&sort=desc&sorted_by=count&per_page=20
+2019-02-10 12:16:04,347 - root - INFO - END................................2019-02-10 12:16:04
+
